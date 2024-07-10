@@ -1,9 +1,9 @@
 {
-  "name": "helioslauncher",
+  "name": "genesialaucher",
   "version": "2.2.1",
-  "productName": "Helios Launcher",
+  "productName": "Genesia Launcher",
   "description": "Modded Minecraft Launcher",
-  "author": "Daniel Scalzi (https://github.com/dscalzi/)",
+  "author": "Genesia, Daniel Scalzi (https://github.com/dscalzi/)",
   "license": "UNLICENSED",
   "homepage": "https://github.com/dscalzi/HeliosLauncher",
   "bugs": {
@@ -40,12 +40,12 @@
     "toml": "^3.0.0"
   },
   "devDependencies": {
-    "electron": "^30.0.1",
+    "electron": "^30.2.0",
     "electron-builder": "^24.13.3",
     "eslint": "^8.57.0"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/dscalzi/HeliosLauncher.git"
+    "url": "git+https://github.com/Heristos/Genesia-Launcher.git"
   }
 }
